@@ -2,7 +2,7 @@ name: Integración Continua - Proyecto PAE
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:
